@@ -1,6 +1,11 @@
 
 # 💫 About Me:
-Hi 👋, I'm Divyansh Pratap Singh .<br>A passionate Full Stack Developer from India.<br>🔭 I’m currently working on Full Stack Development at Advanced Level.<br>⚡ Fun fact - I like Coffee During Breaks.
+Hi 👋, I'm Divyansh Pratap Singh .
+<br>A passionate Full Stack Developer from India.
+<img src="https://th.bing.com/th/id/R.7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3a%2f%2fperfonec.com%2fwp-content%2fuploads%2f2019%2f03%2fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3d&risl=&pid=ImgRaw&r=0" alt="" height="200px">
+<br>🔭 I’m currently working on Full Stack Development at Advanced Level.
+<br>⚡ Fun fact - I like Coffee During Breaks.
+
 
 
 ## 🌐 Socials:
@@ -11,7 +16,7 @@ Hi 👋, I'm Divyansh Pratap Singh .<br>A passionate Full Stack Developer from I
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=divyansh2375&theme=jolly&hide_border=false)
-![]<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="" height="200px">
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="" height="200px">
 
 
 
