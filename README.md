@@ -2,7 +2,9 @@
 
 <!--
 **divyansh2375/divyansh2375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h2 align="left">Hi 👋! My name is Divyansh and I'm a web developer, from India</h2>
+
+!-->
+<h2 align="left">Hi 👋! My name is Divyansh and I'm a web developer, from India</h2> 
 
 ###
 
