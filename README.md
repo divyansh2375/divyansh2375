@@ -2,7 +2,8 @@
 # 💫 About Me:
 Hi 👋, I'm Divyansh Pratap Singh .
 <br>A passionate Full Stack Developer from India.
-<img src="https://th.bing.com/th/id/R.7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3a%2f%2fperfonec.com%2fwp-content%2fuploads%2f2019%2f03%2fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3d&risl=&pid=ImgRaw&r=0" alt="" height="200px">
+<img src="https://th.bing.com/th/id/R.7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3a%2f%2fperfonec.com%2fwp-content%2fuploads%2f2019%2f03%2fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3d&risl=&pid=ImgRaw&r=0" alt="" height="100px
+" style="margin-left: 1200px;">
 <br>🔭 I’m currently working on Full Stack Development at Advanced Level.
 <br>⚡ Fun fact - I like Coffee During Breaks.
 
