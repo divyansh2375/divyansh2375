@@ -1,10 +1,11 @@
 
 # 💫 About Me:
 
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="" height="200px">
-Hi 👋, I'm Divyansh Pratap Singh .
-<br>A passionate Full Stack Developer from India.
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="" height="150px">
+Hi 👋, I'm Divyansh .
 
+
+<br>A passionate Full Stack Developer from India.
 <br>🔭 I’m currently working on Full Stack Development at Advanced Level.
 <br>⚡ Fun fact - I like Coffee During Breaks.
 
