@@ -23,8 +23,9 @@ Hi 👋, I'm Divyansh Pratap Singh .
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=divyansh2375&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/DivyanshPr18921)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
