@@ -1,8 +1,5 @@
 
 # 💫 About Me:
-<div align="center" >
-  <image src="https://readme-typing-svg.herokuapp.com?font=&size=35&width=700&center=true&vCenter=true&color=f1fa8c&height=200&lines=I'am+a+Full+Stack+Web+Developer...;I'am+a+Game+Developer...;I'am+an+App+Developer...;I'am+a+Web+Developer..."></img>
-</div>
 
 
 Hi 👋, I'm Divyansh Pratap Singh .
