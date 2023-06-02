@@ -34,5 +34,7 @@ Hi 👋, I'm Divyansh Pratap Singh .
 [![](https://visitcount.itsvg.in/api?id=divyansh2375&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+![snake animation](https://github.com/<seu divyansh2375>/<seu divyansh2375>/blob/output/github-contribution-grid-snake2.svg)
+
 
 
