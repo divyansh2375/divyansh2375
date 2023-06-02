@@ -1,5 +1,10 @@
 
 # 💫 About Me:
+<div align="center" >
+  <image src="https://readme-typing-svg.herokuapp.com?font=&size=35&width=700&center=true&vCenter=true&color=f1fa8c&height=200&lines=I'am+a+Full+Stack+Web+Developer...;I'am+a+Game+Developer...;I'am+an+App+Developer...;I'am+a+Web+Developer..."></img>
+</div>
+
+
 Hi 👋, I'm Divyansh Pratap Singh .
 <br>A passionate Full Stack Developer from India.
 <img src="https://th.bing.com/th/id/R.7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3a%2f%2fperfonec.com%2fwp-content%2fuploads%2f2019%2f03%2fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3d&risl=&pid=ImgRaw&r=0" alt="" height="100px
