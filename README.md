@@ -39,7 +39,7 @@ Hi 👋, I'm Divyansh Pratap Singh .
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote To give You Fire
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
