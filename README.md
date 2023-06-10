@@ -3,7 +3,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="" height="150px">
 Hi 👋, I'm Divyansh .
-<img align="right" src="https://tenor.com/view/hello-doraemon-nobita-hi-%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93-gif-19920970" alt="" height="150px">
+<img src="https://i.gifer.com/4AIB.gif" alt="" height="150px">
 
 
 <br>A passionate Full Stack Developer from India.
