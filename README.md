@@ -7,7 +7,7 @@ Hi 👋, I'm Divyansh .
 
 
 <br>A passionate Full Stack Developer from India.
-<br>🔭 I’m currently working on Full Stack Development at Advanced Level.
+<br>🔭 I’m currently working for Upskilling My Problem Solving skill.
 <br>⚡ Fun fact - I like Coffee During Breaks.
 
 
