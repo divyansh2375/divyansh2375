@@ -48,7 +48,7 @@ Hi 👋, I'm Divyansh .
 
 
 
-### ✍️ Random Quote To give You Fire
+### ✍️ Random Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
